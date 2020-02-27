@@ -16,13 +16,9 @@ before_install:
 #  - sudo apt-get install libpng16-dev # 安装 libpng16-dev CI编译出现相关报错时请取消注释
 
 install:
-  - pwd
   - cd themes/suka
-  - pwd
   - yarn install
-  - cd ..
-  - cd ..
-  - ls
+  - cd /home/travis/build/[secure]/MyBlog
   - yarn install # 安装依赖
 
 script: # 执行脚本，清除缓存，生成静态文件
