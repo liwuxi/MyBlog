@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+    <ShortName>Escape Plan</ShortName>
+    <Description>你好，我叫次克，是一名前端开发者。这是我的博客，用于自由地发表言论，一个新奇有趣的网站！</Description>
+    <Url type="text/html" template="https://blog.xiwu.li?s={searchTerms}" />
+</OpenSearchDescription>
