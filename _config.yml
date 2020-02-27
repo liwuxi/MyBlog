@@ -4,7 +4,7 @@
 
 # Site
 title: Escape Plan
-subtitle: ''
+subtitle: '愿风指引你的道路，愿你的刀刃永远锋利。'
 description: '你好，我叫次克，是一名前端开发者。这是我的博客，用于自由地发表言论，一个新奇有趣的网站！'
 keywords: 逃跑计划,blog,Web,前端,iOS,小技巧,互联网,科技,博客
 author: Andy Lee
@@ -115,3 +115,4 @@ deploy:
   type: git
   repo: https://github.com/liwuxi/MyBlog.git
   branch: master
+  message: "Github CI Auto Builder at {{ now('YYYY-MM-DD HH:mm:ss Z') }}"
