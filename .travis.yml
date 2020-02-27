@@ -14,10 +14,13 @@ before_install:
   - export TZ='Asia/Shanghai' #配置时区为东八区UTC+8
   - yarn add hexo-cli # 安装 hexo
 #  - sudo apt-get install libpng16-dev # 安装 libpng16-dev CI编译出现相关报错时请取消注释
-  - cd themes/suka
-  - yarn install
 
 install:
+  - ls
+  - cd themes/suka
+  - ls
+  - yarn install
+  - cd /
   - yarn install # 安装依赖
 
 script: # 执行脚本，清除缓存，生成静态文件
