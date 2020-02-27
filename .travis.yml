@@ -21,6 +21,7 @@ install:
   - ls
   - yarn install
   - cd /
+  - ls
   - yarn install # 安装依赖
 
 script: # 执行脚本，清除缓存，生成静态文件
