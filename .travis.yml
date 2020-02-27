@@ -20,7 +20,8 @@ install:
   - cd themes/suka
   - ls
   - yarn install
-  - cd /
+  - cd ..
+  - cd ..
   - ls
   - yarn install # 安装依赖
 
