@@ -18,7 +18,8 @@ before_install:
 install:
   - cd themes/suka
   - yarn install
-  - cd /home/travis/build/[secure]/MyBlog
+  - cd ..
+  - cd ..
   - yarn install # 安装依赖
 
 script: # 执行脚本，清除缓存，生成静态文件
