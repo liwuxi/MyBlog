@@ -5,4 +5,4 @@ layout: about
 permalink: /about/
 ---
 
-Hi, Nice to meet you!
+Hi, I'm Andy. Nice to meet you!
