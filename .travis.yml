@@ -1,6 +1,6 @@
 language: node_js # 编译语言、环境
 
-sudo: required # 需要管理员权限
+# sudo: required # 需要管理员权限 （API取消）
 
 dist: xenial # 指定 CI 系统版本为 Ubuntu16.04 LTS
 
@@ -28,7 +28,7 @@ script: # 执行脚本，清除缓存，生成静态文件
 
 deploy:
   provider: pages
-  skip_cleanup: true # 跳过清理
+  cleanup: true # 跳过清理
   local_dir: public # 需要推送到Github的静态文件目录 
   name: $GIT_NAME # 用户名变量
   email: $GIT_EMAIL # 用户邮箱变量
