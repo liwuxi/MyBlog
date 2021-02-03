@@ -4,19 +4,19 @@
 
 # Site
 title: Escape Plan
-subtitle: '愿风指引你的道路，愿你的刀刃永远锋利。'
+subtitle: 'Andy's Blog'
 description: '你好，我叫次克，是一名前端开发者。这是我的博客，用于自由地发表言论，一个新奇有趣的网站！'
-keywords: 逃跑计划,blog,Web,前端,iOS,小技巧,互联网,科技,博客
+keywords: 逃跑计划,Blog,Developer,Front-end,前端,Apple,小技巧
 author: Andy Lee
 language: zh-CN
-timezone: Asia/Shanghai
+timezone: 'Asia/Shanghai'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: https://blog.xiwu.li
 root: /
-permalink: archives/:title.html
-permalink_defaults: :title.html
+permalink: :title
+permalink_defaults: :title
 pretty_urls:
   trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
   trailing_html: true # Set to false to remove trailing '.html' from permalinks
@@ -36,6 +36,7 @@ skip_render:
 # Writing
 new_post_name: :title.md # File name of new posts
 default_layout: post
+auto_spacing: false
 titlecase: false # Transform title into titlecase
 external_link:
   enable: true # Open external links in new tab
@@ -97,6 +98,7 @@ ignore:
 ## Themes: https://hexo.io/themes/
 # theme: suka
 theme: fluid
+# theme: escape
 
 # # Suka Theme config
 # # Documents: https://theme-suka.skk.moe/docs/
