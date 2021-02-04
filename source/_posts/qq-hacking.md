@@ -6,7 +6,7 @@ tags:
   - 钓鱼
 categories:
   - 日志
-thumbnail: https://img.perdel.cn/thumbnail/qzone.png
+thumbnail: https://cdn.blog.hopenet.tech/thumbnail/qzone.png
 ---
 
 今天发现了一个可以在QQ空间病毒式传播的一种钓鱼网站，危险在于财付通，Q币等虚拟财物，对QQ账号本身威胁不大。
@@ -17,11 +17,11 @@ thumbnail: https://img.perdel.cn/thumbnail/qzone.png
 
 今天很久没有联系的朋友突然在我空间留言
 
-![例](https://img.perdel.cn/article/hacking/1-1.png)
+![例](https://cdn.blog.hopenet.tech/article/hacking/1-1.png)
 
 如果是熟人的话，肯定毫不犹豫就会进入钓鱼网站
 
-![PC 打开](https://img.perdel.cn/article/hacking/1-2.png)
+![PC 打开](https://cdn.blog.hopenet.tech/article/hacking/1-2.png)
 
 钓鱼网站在移动端有特别优化，打开网站后并不能直接看出是个钓鱼网站
 
@@ -41,7 +41,7 @@ thumbnail: https://img.perdel.cn/thumbnail/qzone.png
 
 没过几天就看到了好友直接损失600元 
 
-![受害者](https://img.perdel.cn/article/hacking/1-3.png)
+![受害者](https://cdn.blog.hopenet.tech/article/hacking/1-3.png)
 
 今天打开链接：http://ytmd9.qazxs2.top
 
@@ -49,4 +49,4 @@ top域名，在万网售价12元。成本低廉，操作简单，利润极高�
 
 附上钓鱼网站传播者信息：
 
-![盗号者](https://img.perdel.cn/article/hacking/1-4.png)
+![盗号者](https://cdn.blog.hopenet.tech/article/hacking/1-4.png)

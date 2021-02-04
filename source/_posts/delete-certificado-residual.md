@@ -6,7 +6,7 @@ tags:
     - 证书
 categories:
     - 小技巧
-thumbnail: https://img.perdel.cn/thumbnail/delete-certificado.png
+thumbnail: https://cdn.blog.hopenet.tech/thumbnail/delete-certificado.png
 ---
 
 不知何时起，我的iPhone从iOS10开始就出现了一个叫 “WoSign CA Limited” 的垃圾证书。
@@ -24,7 +24,7 @@ thumbnail: https://img.perdel.cn/thumbnail/delete-certificado.png
 1. 使用 iTunes 或者 iMazing 将iPhone备份。（取消加密备份）
 2. iMazing > 文件系统 > 备份 > KeychainDomain > 找到 TrustStore.sqlite3 > 拷贝到 ~/ 目录
 
-![拷贝文件](https://img.perdel.cn/article/delete-certificado-residual/1.png)
+![拷贝文件](https://cdn.blog.hopenet.tech/article/delete-certificado-residual/1.png)
 
 3. 前往 [ADVTrustStore](https://github.com/ADVTOOLS/ADVTrustStore) 下载 ADVTrustStore 用于编辑iOS CA证书
 4. 下载完成后，将 iosCertTrustManager.py 同样复制到 ~/
@@ -32,7 +32,7 @@ thumbnail: https://img.perdel.cn/thumbnail/delete-certificado.png
 
 ``` ./iosCertTrustManager.py -t ~/TrustStore.sqlite3 -e ~/foo.crt ```
 
-![运行命令](https://img.perdel.cn/article/delete-certificado-residual/2.png)
+![运行命令](https://cdn.blog.hopenet.tech/article/delete-certificado-residual/2.png)
 
 如图所示，你可以看到 ADVTrustStore 重新生成了 WoSign CA Limited, CN 证书
 

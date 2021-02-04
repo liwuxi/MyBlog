@@ -7,7 +7,7 @@ tags:
 - 新玩意
 categories:
 - 测评
-thumbnail: https://img.perdel.cn/thumbnail/ruffood-experience.png
+thumbnail: https://cdn.blog.hopenet.tech/thumbnail/ruffood-experience.png
 ---
 
 ### 初衷
@@ -22,7 +22,7 @@ thumbnail: https://img.perdel.cn/thumbnail/ruffood-experience.png
 ### 开箱
 第二天收到包裹，湖州发出，不知道是不是全国各地都有仓库。外面采用一个超大的防撞气泡袋包住纸箱，比较惊讶（平常买牛奶都没有这层保护），等我打开塑料袋，准备讲箱子拿出来的时候，纸箱底部居然直接破了...
 
-![脆弱的纸箱](https://img.perdel.cn/article/ruffood/ruofan2.jpg)
+![脆弱的纸箱](https://cdn.blog.hopenet.tech/article/ruffood/ruofan2.jpg)
 
 产品外观设计上中规中矩，不算难看。塑料瓶的厚度没有达到心理的预期，捏上去软啪啪的～从包装上没有给我感觉这瓶“饮料”原价需要30元一瓶。
 
@@ -30,7 +30,7 @@ thumbnail: https://img.perdel.cn/thumbnail/ruffood-experience.png
 
 当然啦最重要的还是产品的内在。
 
-![若饭液体版 V3.3](https://img.perdel.cn/article/ruffood/ruofan.jpg)
+![若饭液体版 V3.3](https://cdn.blog.hopenet.tech/article/ruffood/ruofan.jpg)
 
 ### 口感
 本来想买的是咖啡味，结果收到才知道是自己买成了原味的，也懒得再去退换（这里不得不赞一下淘宝的确认订单功能），迫不及待地等到饭点，开始尝试。

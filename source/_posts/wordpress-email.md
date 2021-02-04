@@ -6,7 +6,7 @@ tags:
 categories:
   - 技术栈
 date: 2016-08-03 15:38:19
-thumbnail: https://img.perdel.cn/thumbnail/smtp-email.png
+thumbnail: https://cdn.blog.hopenet.tech/thumbnail/smtp-email.png
 ---
 
 本次教程利用插件在虚拟主机 Or VPS 在 Mail 函数被禁用的情况下，添加WordPress评论回复邮件通知功能，更好的对用户进行交流。
@@ -21,7 +21,7 @@ thumbnail: https://img.perdel.cn/thumbnail/smtp-email.png
 
 WP后台 - 设置 - Email
 
-![smtp](https://img.perdel.cn/article/wordpress-email/smtp.png)
+![smtp](https://cdn.blog.hopenet.tech/article/wordpress-email/smtp.png)
 
 不同的邮箱有不同的设置方法，具体仅需要修改：host、port、encryption 这三项内容
 
@@ -123,6 +123,6 @@ WP后台 - 设置 - Email
 
 之后你可以在文章下进行测试，如果成功你可以收到这么一封邮件！
 
-![email](https://img.perdel.cn/article/wordpress-email/email.png)
+![email](https://cdn.blog.hopenet.tech/article/wordpress-email/email.png)
 
 大功告成！ ;-) 

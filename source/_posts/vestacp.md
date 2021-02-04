@@ -7,7 +7,7 @@ tags:
 categories:
   - 测评
 date: 2016-01-16 16:33:44
-thumbnail: https://img.perdel.cn/thumbnail/vests.png
+thumbnail: https://cdn.blog.hopenet.tech/thumbnail/vests.png
 ---
 
 VestaCP是由俄罗斯的人编写的VPS主机控制面板，支持中文，Vestacp功能强大，基本上已经和Cpanel看齐。支持Apache、Nginx、Bind、Exim、Dovecot、vsftpd、MySQL等，提供可视化的网站管理面板，非常适合新手用户使用。
@@ -61,11 +61,11 @@ VestaCP是linux下的一款免费开源主机管理面板！环境核心包括Ap
 
 仅仅需要几分钟安装就完成了 （安装速度与VPS的性能和带宽有关）
 
-![开始安装](https://img.perdel.cn/article/vestacp/1.png)
+![开始安装](https://cdn.blog.hopenet.tech/article/vestacp/1.png)
 
 安装完成界面，可以复制下密码，忘记了也没关系，他可以通过你前面输入的邮箱进行找回！
 
-![操作界面](https://img.perdel.cn/article/vestacp/2.png)
+![操作界面](https://cdn.blog.hopenet.tech/article/vestacp/2.png)
 
 友善的图形界面
 
@@ -73,7 +73,7 @@ VestaCP是linux下的一款免费开源主机管理面板！环境核心包括Ap
 
 在Language选项选择CN保存即可
 
-![语言设置](https://img.perdel.cn/article/vestacp/3.png)
+![语言设置](https://cdn.blog.hopenet.tech/article/vestacp/3.png)
 
 安装完成！是否还沉浸在安装的愉悦中？这一切都已完成！~
 

@@ -6,7 +6,7 @@ tags:
 - Siri
 categories:
 - 小技巧
-thumbnail: https://img.perdel.cn/thumbnail/Siri.jpg
+thumbnail: https://cdn.blog.hopenet.tech/thumbnail/Siri.jpg
 ---
 
 macOS 下 Siri 使用程度虽然不多，但也算 Touch Bar 为数不多的功能之一（虽然特别会误触），但总体来说还算方便。
@@ -15,7 +15,7 @@ macOS 下 Siri 使用程度虽然不多，但也算 Touch Bar 为数不多的功
 
 <!-- more  -->
 
-![](https://img.perdel.cn/article/Siri-not-working.png)
+![](https://cdn.blog.hopenet.tech/article/Siri-not-working.png)
 
 过一会，它会显示连接有点问题，请检查您的麦克风balabala
 

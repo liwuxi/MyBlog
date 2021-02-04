@@ -4,7 +4,7 @@ date: 2018-02-20 16:22:29
 tags: 效率
 categories:
 - 小技巧
-thumbnail: https://img.perdel.cn/thumbnail/focus.png
+thumbnail: https://cdn.blog.hopenet.tech/thumbnail/focus.png
 ---
 
 渐渐地发现自己学习、工作的效率越来越低。思维经常进行跳跃，做着这件事脑子里想的却是其他东西。沉浸式的工作与学习时间越来越少。
@@ -25,13 +25,13 @@ thumbnail: https://img.perdel.cn/thumbnail/focus.png
 
 * 关闭手机通知
 
-<img src="https://img.perdel.cn/article/Stayfocused/1.png" alt="手机通知" width="50%" height="50%">
+<img src="https://cdn.blog.hopenet.tech/article/Stayfocused/1.png" alt="手机通知" width="50%" height="50%">
 
 关闭其他非不要的手机通知，在很多时候你并不需要App来告诉你什么时候应该打开它，你完全可以选择关闭这些App的通知权限。除了必要的App，如 微信、Telegram、QQ 等。
 
 * 制定任务清单
 
-<img src="https://img.perdel.cn/article/Stayfocused/2.png" alt="我的清单" width="50%" height="50%">
+<img src="https://cdn.blog.hopenet.tech/article/Stayfocused/2.png" alt="我的清单" width="50%" height="50%">
 
 如果你喜欢看电影，美剧，你经常可以看到一些关于任务清单的画面，这真的非常重要！你需要开始养成一个良好的习惯，制定 Task list. 睡前想想自己明天需要干什么，并把它添加到App、笔记本、日历上，然后去完成它。当然，你也可以在第二天出现新的任务时再添加，Just do it!!!
 

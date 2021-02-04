@@ -14,14 +14,19 @@ jobs:
       - name: Checkout source
         uses: actions/checkout@v2
         with:
-          ref: master
+          ref: source
 
       - name: Setup Node.js
         uses: actions/setup-node@v1
         with:
           node-version: '12'
 
-      - name: Setup Hexo
+      - name: Setup Hexo Dependencies
+        run: |
+          npm install hexo-cli -g
+          npm install
+
+      - name: Setup Deploy Private Key
         env:
           ACTION_DEPLOY_KEY: ${{ secrets.HEXO_DEPLOY_KEY }}
         run: |
@@ -30,12 +35,14 @@ jobs:
           chmod 700 ~/.ssh
           chmod 600 ~/.ssh/id_rsa
           ssh-keyscan github.com >> ~/.ssh/known_hosts
+      
+      - name: Setup Git Information
+        run: |
           git config --global user.email "imwuxi@gmail.com"
           git config --global user.name "liwuxi"
-          npm install hexo-cli -g
-          npm install
-
+          
       - name: Deploy
         run: |
           hexo clean
+          hexo generate
           hexo deploy
