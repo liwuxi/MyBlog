@@ -116,6 +116,6 @@ theme: fluid
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/liwuxi/MyBlog.git
+  repo: git@github.com:liwuxi/MyBlog.git
   branch: master
-  message: "Github CI Auto Builder at {{ now('YYYY-MM-DD HH:mm:ss Z') }}"
+  message: "Github Actions Auto builder at {{ now('YYYY-MM-DD HH:mm:ss Z') }}"
