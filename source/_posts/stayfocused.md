@@ -4,7 +4,7 @@ date: 2018-02-20 16:22:29
 tags: 效率
 categories:
 - 小技巧
-thumbnail: https://cdn.blog.hopenet.tech/thumbnail/focus.png
+cover: https://cdn.blog.hopenet.tech/thumbnail/focus.png
 ---
 
 渐渐地发现自己学习、工作的效率越来越低。思维经常进行跳跃，做着这件事脑子里想的却是其他东西。沉浸式的工作与学习时间越来越少。

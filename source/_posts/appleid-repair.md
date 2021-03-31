@@ -6,7 +6,7 @@ tags:
 categories:
   - 小技巧
 date: 2018-10-01 17:48:26
-thumbnail: https://cdn.blog.hopenet.tech/thumbnail/apple-id.png
+cover: https://cdn.blog.hopenet.tech/thumbnail/apple-id.png
 ---
 
 由于 Apple Store 的区域限制，导致许多有两个以上的 Apple ID ，如果在注册的时候，没有多留个心眼，设置并保存好相关的安全项目，下了 APP 就走人了的话，很有可能你会遇到不必要的麻烦。

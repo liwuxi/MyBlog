@@ -7,7 +7,7 @@ tags:
 - 新玩意
 categories:
 - 测评
-thumbnail: https://cdn.blog.hopenet.tech/thumbnail/ruffood-experience.png
+cover: https://cdn.blog.hopenet.tech/thumbnail/ruffood-experience.png
 ---
 
 ### 初衷

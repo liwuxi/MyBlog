@@ -6,7 +6,7 @@ tags:
   - 钓鱼
 categories:
   - 日志
-thumbnail: https://cdn.blog.hopenet.tech/thumbnail/qzone.png
+cover: https://cdn.blog.hopenet.tech/thumbnail/qzone.png
 ---
 
 今天发现了一个可以在QQ空间病毒式传播的一种钓鱼网站，危险在于财付通，Q币等虚拟财物，对QQ账号本身威胁不大。

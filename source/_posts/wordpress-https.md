@@ -6,7 +6,7 @@ tags:
 categories:
   - 技术栈
 date: 2016-01-26 10:37:41
-thumbnail: https://cdn.blog.hopenet.tech/thumbnail/wordpress-https.png
+cover: https://cdn.blog.hopenet.tech/thumbnail/wordpress-https.png
 
 ---
 HTTPS协议越来越普及，Google、百度等搜索引擎也大大地对HTTPS增加友好度各大网站也开启了全站SSL，比如淘宝、百度等，也意味着互联网HTTPS时代的到来。

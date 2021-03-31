@@ -7,7 +7,7 @@ tags:
 categories:
   - 测评
 date: 2016-01-16 16:33:44
-thumbnail: https://cdn.blog.hopenet.tech/thumbnail/vests.png
+cover: https://cdn.blog.hopenet.tech/thumbnail/vests.png
 ---
 
 VestaCP是由俄罗斯的人编写的VPS主机控制面板，支持中文，Vestacp功能强大，基本上已经和Cpanel看齐。支持Apache、Nginx、Bind、Exim、Dovecot、vsftpd、MySQL等，提供可视化的网站管理面板，非常适合新手用户使用。

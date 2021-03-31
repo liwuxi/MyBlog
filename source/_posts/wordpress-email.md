@@ -6,7 +6,7 @@ tags:
 categories:
   - 技术栈
 date: 2016-08-03 15:38:19
-thumbnail: https://cdn.blog.hopenet.tech/thumbnail/smtp-email.png
+cover: https://cdn.blog.hopenet.tech/thumbnail/smtp-email.png
 ---
 
 本次教程利用插件在虚拟主机 Or VPS 在 Mail 函数被禁用的情况下，添加WordPress评论回复邮件通知功能，更好的对用户进行交流。

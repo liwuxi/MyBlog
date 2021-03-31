@@ -5,7 +5,7 @@ tags:
 - 记事
 categories:
 - 日志
-thumbnail: https://cdn.blog.hopenet.tech/thumbnail/byewordpress.png
+cover: https://cdn.blog.hopenet.tech/thumbnail/byewordpress.png
 ---
 
 ## 前言

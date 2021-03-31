@@ -6,7 +6,7 @@ tags:
     - 证书
 categories:
     - 小技巧
-thumbnail: https://cdn.blog.hopenet.tech/thumbnail/delete-certificado.png
+cover: https://cdn.blog.hopenet.tech/thumbnail/delete-certificado.png
 ---
 
 不知何时起，我的iPhone从iOS10开始就出现了一个叫 “WoSign CA Limited” 的垃圾证书。
