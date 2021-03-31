@@ -28,7 +28,7 @@ jobs:
 
       - name: Setup aurora Theme Dependencies
         run: |
-          cd /themes/aurora
+          cd ./themes/aurora
           npm install
 
       - name: Setup Deploy Private Key
