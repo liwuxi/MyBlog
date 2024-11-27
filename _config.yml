@@ -53,10 +53,10 @@ highlight:
   line_number: false
   auto_detect: false
   tab_replace: ''
-  wrap: true
+  wrap: true 
   hljs: false
 prismjs:
-  enable: true
+  enable: false 
   preprocess: true
   line_number: true
   tab_replace: ''

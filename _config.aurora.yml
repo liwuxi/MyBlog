@@ -79,6 +79,15 @@ theme:
     color_2: '#5433ff'
     color_3: '#ff0099'
 
+
+#! ---------------------------------------------------------------
+#! Highlighter Shiki
+#! ---------------------------------------------------------------
+shiki:
+  enable: true
+  backgroundColor: '#1a1a1a'
+
+
 #! ---------------------------------------------------------------
 #! Social Configs
 #! @docs https://obsidianext.tridiamond.tech/guide/social.html
