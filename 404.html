@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+        <title>404 - Escape Plan</title>
+        <style>
+            * {
+                padding: 0;
+                margin: 0;
+            }
+
+            body {
+                background: url('https://cdn.blog.hopenet.tech/planet.png') no-repeat center center fixed;
+                background-size: cover;
+                cursor: default;
+                font-family: -apple-system, system-ui;
+                color: #FFFFFF;
+                width: 100%;
+                height: 100%;
+                text-align: center;
+            }
+
+            main {
+                position: absolute;
+                left: 50%;
+                top: 40%;
+                transform: translate(-50%, -50%);
+            }
+
+            main p {
+                font-size: 200px;
+                text-shadow: 2px 2px blue, -2px -2px red;
+            }
+
+            #goBack {
+                display: block;
+                margin: 5em 0;
+            }
+
+            footer {
+                position: absolute;
+                width: 100%;
+                bottom: 0;
+                margin-bottom: 50px;
+            }
+
+            a {
+                color: #FFFFFF;
+                text-decoration:none;
+                cursor: pointer;
+                transition: all 0.3s;
+            }
+
+            a:hover {
+                color: rgb(255, 255, 255, 0.5);
+            }
+        </style>
+    </head>
+    <body>
+        <main>
+            <p>404</p>
+            <h1>😱 OOPS! 我想你应该进入到了一个未知的世界</h1>
+            <a id="goBack" href="https://blog.xiwu.li">🚀返回星球</a>
+        </main>
+        <footer>
+            <p>
+                <span year></span>
+                <span style="color: rgb(232, 86, 0);">♥</span>
+                <a href="https://blog.xiwu.li/about" target="_blank">Escape Plan</a>
+            </p>
+        </footer>
+    </body>
+    <script>
+        var copyrightSince = 2016;
+        var copyrightNow = (new Date).getFullYear();
+        var textContent = document.querySelector("span[year]");
+        textContent.textContent = copyrightSince === copyrightNow ? copyrightSince : copyrightSince + " - " + copyrightNow;
+    </script>
+</html>
